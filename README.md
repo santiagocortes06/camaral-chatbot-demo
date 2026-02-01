@@ -60,7 +60,7 @@ This allows easy updates without modifying the workflow logic.
 ## ⚙️ n8n Workflow
 The complete workflow used in this project can be found here:
 
-`/n8n/workflow-camaral-chat.json`
+https://github.com/santiagocortes06/camaral-chatbot-demo/blob/main/workflown8n_camaral.png
 
 ---
 
