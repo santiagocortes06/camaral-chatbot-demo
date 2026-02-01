@@ -67,8 +67,7 @@ https://github.com/santiagocortes06/camaral-chatbot-demo/blob/main/workflown8n_c
 ## 📸 Demo Evidence
 Screenshots showing the chatbot, workflow, and integrations are available in:
 
-`/demo/screenshots/`
-
+https://github.com/santiagocortes06/camaral-chatbot-demo/blob/main/screenshot_chatbot_camaral.png
 ---
 
 ## 🚀 Author
